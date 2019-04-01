@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+  float n,p,x;
+  scanf("%f%f",&n,&p);
+  x=100*n/(p+100);
+  printf("%.2f",x);
+  
+
+	return 0;
+}
