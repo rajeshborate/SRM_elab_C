@@ -1,6 +1,6 @@
 
 /*
-
+Line equation
 
 */
 #include <stdio.h>
