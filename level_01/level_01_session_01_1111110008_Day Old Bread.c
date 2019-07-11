@@ -1,3 +1,5 @@
+//discouted Price
+
 #include <stdio.h>
 int main()
 {
